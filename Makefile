@@ -6,5 +6,4 @@ all:
 
 clean:
 	rm -rf build/*
-	rm -rf redis*.nsi
 	rm -f redis-server*.exe
