@@ -1,6 +1,10 @@
 RedisIO
 =======
 
+Disclaimer:
+-----------
+This Redis IO service is based on an experimental port. Use it at your own risk.
+
 RedisIO  Installer is an `NSIS <http://nsis.sourceforge.net>`_ based
 installation script to set up a Redis IO Service.
 The service binary its a MS OpenTech port of redis. It was taken from https://github.com/MSOpenTech/redis
